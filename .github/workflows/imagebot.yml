@@ -1,19 +1,52 @@
-name: Auto Approve
+# name: Auto Approve
 
-on: pull_request
+# on: pull_request
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Auto Approve
+#       uses: hmarr/auto-approve-action@v2.0.0
+#       if: github.actor == 'imgbot[bot]'
+#       with:
+#         github-token: "${{ secrets.GITHUB_TOKEN }}"
+#     - name: Merge
+#       uses: squalrus/merge-bot@v0.4.5
+#       if: github.actor == 'imgbot[bot]'
+#       with:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         method: squash
+
+name: Merge Bot
+
+on:
+  pull_request:
+    types:
+      - labeled
+      - ready_for_review
+      - review_request_removed
+      - review_requested
+      - synchronize
+      - unlabeled
+  pull_request_review:
+    types:
+      - dismissed
+      - submitted
 
 jobs:
-  build:
+  merge:
     runs-on: ubuntu-latest
+    name: Merge
     steps:
-    - name: Auto Approve
-      uses: hmarr/auto-approve-action@v2.0.0
-      if: github.actor == 'imgbot[bot]'
-      with:
-        github-token: "${{ secrets.GITHUB_TOKEN }}"
-    - name: Merge
-      uses: squalrus/merge-bot@v0.2.0
-      if: github.actor == 'imgbot[bot]'
+    - name: Integration check
+      uses: squalrus/merge-bot@v0.1.0
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        test: true
+        reviewers: true
+        labels: ready, merge
+        blocking_labels: do not merge
+        checks_enabled: true
         method: squash
+        delete_source_branch: true
