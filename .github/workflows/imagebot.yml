@@ -33,6 +33,8 @@ on:
     types:
       - dismissed
       - submitted
+  workflow_dispatch:
+    # (optional) Run workflow when pushing on master/main
 
 jobs:
   merge:
