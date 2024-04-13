@@ -35,14 +35,14 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -84,7 +84,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3080 Commits
+                            3082 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -234,14 +234,14 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.74648038945543" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="158.74648038945543" y="0" width="122.57523028296262" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="281.321710672418" y="0" width="67.21996661382721" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="348.54167728624526" y="0" width="44.11287634746857" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="392.6545536337138" y="0" width="35.57988424273166" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.2344378764455" y="0" width="16.78596062598896" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.02039850243443" y="0" width="12.11779408865836" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.13819259109283" y="0" width="2.8618074089071857" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.75735275312366" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="158.75735275312366" y="0" width="122.57080649238888" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="281.32815924551255" y="0" width="67.21754061753101" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="348.5456998630435" y="0" width="44.111284295582436" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="392.65698415862596" y="0" width="35.578600150047" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="428.23558430867297" y="0" width="16.78535481375253" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.0209391224255" y="0" width="12.117356752476002" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.1382958749015" y="0" width="2.861704125098458" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -464,6 +464,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2936,7 +2937,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2024, 02:24:04 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2024, 02:20:28 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
