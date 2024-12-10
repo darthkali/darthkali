@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -84,7 +84,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3264 Commits
+                            3268 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -103,7 +103,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            15 Issues opened
+                            14 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -234,14 +234,14 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.43403299982032" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="159.43403299982032" y="0" width="122.16567837853898" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="281.5997113783593" y="0" width="66.99536931730626" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="348.5950806956656" y="0" width="43.96548512922649" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="392.5605658248921" y="0" width="35.78000806641353" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.3405738913056" y="0" width="16.72987488887809" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.0704487801837" y="0" width="12.077305764590221" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.14775454477393" y="0" width="2.8522454552261203" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.47513851651038" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="159.47513851651038" y="0" width="122.1489709536044" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="281.6241094701148" y="0" width="66.9862070049556" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="348.6103164750704" y="0" width="43.9594723926522" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="392.5697888677226" y="0" width="35.77511477881539" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="428.34490364653794" y="0" width="16.727586904784847" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.0724905513228" y="0" width="12.075654067631206" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.148144618954" y="0" width="2.851855381045952" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -774,6 +774,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
                                 </g>
                                 <g transform="translate(735, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -3246,7 +3247,7 @@ Bachelor- und Masterstudium [abgeschlossen] @fh-erfurt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2024, 01:34:16 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2024, 01:33:20 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
